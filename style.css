@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body, p {
+  margin: 0;
+  background-color: #1d1c1c;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  height: 450px;
+}
+
+section {
+  margin: 15% 15px;
+  width: 360px;
+  color: #fff;
+  font-family: Raleway Regular;
+  font-size: 14px;
+  text-align: center;
+}
+
+.title {
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+.icon {
+  padding: 15px 20px;
+  width: 80px;
+  height: 70px;
+  background-color: #ffae00;    
+  border-radius: 20px 0;
+  color: #fff;
+  font-size: 30px;
+  }
